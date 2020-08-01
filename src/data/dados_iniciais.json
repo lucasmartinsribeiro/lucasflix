@@ -1,66 +1,66 @@
 {
   "categorias": [
     {
-      "titulo": "Vídeos engraçados",
-      "cor": "#6BD1FF",
+      "titulo": "Jogos históricos",
+      "cor": "#00C86F", 
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Flamengo Bi-Campeão da Libertadores!",
+          "url": "https://www.youtube.com/watch?v=zeJ3KpmgIwA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Santos 4 x 5 Flamengo",
+          "url": "https://www.youtube.com/watch?v=x0Sc6TpJTLg&t=865s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Real Madrid 0 - 3 Barça (2005)",
+          "url": "https://www.youtube.com/watch?v=MZ2GT_35jLQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Flamengo 5x0 Grêmio - semifinal Conmebol Libertadores",
+          "url": "https://www.youtube.com/watch?v=GZcNJgeb0uE&t=5081s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Real Madrid 2 x 3 Barcelona",
+          "url": "https://www.youtube.com/watch?v=-Yp_OBkYF7M"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Real Madrid 2 - 6 Barça",
+          "url": "https://www.youtube.com/watch?v=mMc6VnLCnXg"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Real Madrid 0 x 2 Barcelona - Semi-Final Liga dos Campeões 2011",
+          "url": "https://www.youtube.com/watch?v=pqpwlwghJ8g&t=279s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Flamengo 2 x 1 Grêmio brasileirão 2009 - jogo do Hexa",
+          "url": "https://www.youtube.com/watch?v=Fmub7QMBNX8"
+        }
       ]
     },
     {
       "titulo": "Músicas",
-      "cor": "#00C86F",
+      "cor": "#6BD1FF",
       "videos": [
         {
-          "titulo": "Emicida - 10 anos de Triunfo - Ooorra (Ao Vivo)",
-          "url": "https://www.youtube.com/watch?v=p9JHGj_AhVE"
+          "titulo": "Post Malone, Swae Lee - Sunflower",
+          "url": "https://www.youtube.com/watch?v=ApXoWvfEYVU"
         },
         {
-          "titulo": "Emicida - Pantera Negra (Clipe Oficial)",
-          "url": "https://www.youtube.com/watch?v=Xi1BfosGv2E"
+          "titulo": "Future - Life Is Good (Official Music Video) ft. Drake",
+          "url": "https://www.youtube.com/watch?v=l0U7SxXHkPY"
         },
         {
-          "titulo": "3 . Djonga - UFA pt. Sidoka & Sant",
-          "url": "https://www.youtube.com/watch?v=tjD5_9idOVs"
+          "titulo": "Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus",
+          "url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8"
         },
         {
-          "titulo": "Rashid - Não é Desenho",
-          "url": "https://www.youtube.com/watch?v=I9zspm9R0Io"
+          "titulo": "Gusttavo Lima – A Gente Fez Amor - DVD O Embaixador In Cariri (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=SvQx5FMEVmE"
         },
         {
-          "titulo": "Coruja BC1 - NDDN",
-          "url": "https://www.youtube.com/watch?v=QJ6SWvdHWzA"
+          "titulo": "Gusttavo Lima - Eu Não Iria - DVD O Embaixador (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=pgHrRi91-Mk"
         },
         {
           "titulo": "Tim Maia – Bom Senso (Official Audio)",
@@ -73,7 +73,31 @@
         {
           "titulo": "Numb (Official Video) - Linkin Park",
           "url": "https://www.youtube.com/watch?v=kXYiU_JCYtU"
-        }     
+        },
+        {
+          "titulo": "Os Barões da Pisadinha - Tá Rocheda (Videoclipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=wY5l0ircwsQ"
+        },
+        {
+          "titulo": "Raí Saia Rodada - Eu Acho Que Não (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=7u1EjP-98EA"
+        },
+        {
+          "titulo": "Raí Saia Rodada - Bebe Vem Me Procurar (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=7dKdvqmR8FA"
+        },
+        {
+          "titulo": "Mano Walter - Juramento do Dedinho (Video Oficial)",
+          "url": "https://www.youtube.com/watch?v=rshk3Vi23h0"
+        },
+        {
+          "titulo": "The Weeknd - Blinding Lights",
+          "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+        },
+        {
+          "titulo": "DaBaby - Rockstar feat. Roddy Ricch (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=mxFstYSbBmc"
+        }
       ]
     },
     {
@@ -81,20 +105,32 @@
       "cor": "#9cd33b",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=c29L85KVtV0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Suits",
+          "url": "https://www.youtube.com/watch?v=PHqHnwPC9is"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Prison Break",
+          "url": "https://www.youtube.com/watch?v=N6GSmfR8Sgw&list=PLxIjY5KiVCemK7lUIbmnfnym5P8pc0tC9"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "The Blacklist",
+          "url": "https://www.youtube.com/watch?v=SlzZDbEb6WM"
+        },
+        {
+          "titulo": "Vis a Vis",
+          "url": "https://www.youtube.com/watch?v=3w1YI03HOWI"
+        },
+        {
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=0k-XzOJjt8Q"
+        },
+        {
+          "titulo": "Peaky Blinders",
+          "url": "https://www.youtube.com/watch?v=sq7g9JGqJpM"
         }
       ]
     },

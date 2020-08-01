@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Foi com muita emoção a conquista do Flamengo, que venceu o River Plate de virada por 2 a 1, em Lima, no Peru, e se sagrou campeão da Libertadores 2019. O clube levanta a taça depois de 38 anos. Gabigol, que marcou aos 43 e 46 do segundo tempo, foi o herói."}
       />
 
       <Carousel
