@@ -1,0 +1,40 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Jogos memoráveis",
+            "descricao": "Uma categoria de partidas de futebol que são memoráveis para mim.",
+            "cor": "#00C86F"
+        },
+        {
+            "id": 2,
+            "nome": "Músicas",
+            "descricao": "Uma categoria das músicas que eu mais gosto.",
+            "cor": "#6BD1FF"
+        },
+        {
+            "id": 3,
+            "nome": "Séries",
+            "descricao": "Uma categoria das séries que eu mais gosto.",
+            "cor": "#9cd33b"
+        },
+        {
+            "id": 4,
+            "nome": "Filmes",
+            "descricao": "Uma categoria dos filmes que eu mais gosto.",
+            "cor": "orange"
+        },
+        {
+            "id": 5,
+            "nome": "Games",
+            "descricao": "Uma categoria de games que eu mais gosto.",
+            "cor": "red"
+        },
+        {
+            "id": 6,
+            "nome": "Vídeos sobre tecnologia",
+            "descricao": "Uma categoria de alguns ótimos vídeos sobre tecnologia.",
+            "cor": "#6b5be2"
+        }
+    ]
+}
