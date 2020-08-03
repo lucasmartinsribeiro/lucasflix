@@ -135,7 +135,7 @@ function CadastroCategoria() {
       </ul>
 
       <Link to="/">
-        Ir para Home
+        Voltar para Home
       </Link>
     </PageDefault>
   );

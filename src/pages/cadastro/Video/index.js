@@ -69,7 +69,7 @@ function CadastroVideo() {
         />
 
         <Button type="submit">
-          Cadastrar
+          Cadastrar Video
         </Button>
       </form>
 
